@@ -1,0 +1,24 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaErnestini/temp_node_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaErnestini/temp_node_tutorial/issues"
+  },
+  "homepage": "https://github.com/LukaErnestini/temp_node_tutorial#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
